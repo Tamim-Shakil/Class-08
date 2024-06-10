@@ -11,7 +11,7 @@ body {
 }
 
 .first-middle {
-  background-color: white;
+  background-color: antiquewhite;
 }
 
 header {
@@ -185,6 +185,9 @@ img {
   justify-content: space-between;
 }
 
+.bottom-section {
+  margin-top: -200px;
+}
 .bottom-content {
   padding-top: 217.5px;
 }
